@@ -1,4 +1,4 @@
-# 3d-javascript - Three.js
+# 3d-Skybox - Three.js
 
 ## Description
 
